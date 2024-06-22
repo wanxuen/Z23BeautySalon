@@ -27,4 +27,4 @@ However, do remember to press the import button after choosing the database file
 
 localhost/Z23BeautySalon/
 
-Hence, this is the end of our guide to run our website. We hope you enjoy surfing through our website and do not hesitate to reach out to contact us through (amandagrace@1utar.my)  if you encounter any problems. Thank you!
+Hence, this is the end of our guide to run our website. We hope you enjoy surfing through our website and do not hesitate to reach out to contact us through (wanxuentan02@1utar.my)  if you encounter any problems. Thank you!
